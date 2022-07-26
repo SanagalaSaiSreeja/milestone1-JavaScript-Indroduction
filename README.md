@@ -1,1 +1,1 @@
-# milestone1-JavaScript-Indroduction-
+# milestone1-JavaScript-Indroduction
